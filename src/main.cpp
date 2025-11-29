@@ -18,8 +18,8 @@
  * Teensy 4.x recommended for performance
  */
 
-#include "include/ili9341_display.h"
-#include "include/pazerville_display.h"
+#include "ili9341_display.h"
+#include "pazerville_display.h"
 
 // Global display objects
 ILI9341Display *tft = nullptr;
